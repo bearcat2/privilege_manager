@@ -1,8 +1,5 @@
-# privilege_manager
-使用 springmvc 拦截器实现权限管理
-
 # 项目介绍
-使用spring框架整合其他技术例子类
+使用 springmvc 拦截器实现权限管理
 
 # 软件架构
 软件架构说明 后台 spring + springmvc + mybatis
